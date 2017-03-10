@@ -16,6 +16,7 @@ def looper(x, increment):
 
     for num in numbers:
         print num
+
 def for_looper(x):
     numbers = range(x)
 
